@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @reksuwo
 - 👀 I’m interested in developing websites
+- MERN STACK Enjoyer
 - 💞️ I’m looking to collaborate on developing websites
 - ⚡ Fun fact: EzGG
 
