@@ -72,13 +72,7 @@ I build <b>AI-powered applications</b>, automation systems, and scalable full-st
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reksuwo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reksuwo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
