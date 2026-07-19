@@ -88,21 +88,6 @@ I build <b>AI-powered applications</b>, automation systems, and scalable full-st
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 AI Video Editor
-
-AI-powered video editing platform with automated workflows.
-
-### 🏡 AI Open House Platform
-
-Open house management platform for real estate teams.
-
-### 💬 AI Customer Support Chatbot
-
-LLM-powered chatbot with knowledge retrieval and automation.
-
----
 
 ## 🌎 Connect With Me
 
